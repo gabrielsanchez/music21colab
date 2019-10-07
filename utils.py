@@ -9,7 +9,7 @@ def audio_out(ob, soundfont='/usr/share/sounds/sf2/FluidR3_GM.sf2'):
     return Audio('output.wav')
 
 def img_out(ob):
-    return Image(filename=str(ob.write('img.png')))
+    return Image(filename=str(ob.write('lily.png')))
 
 def upload():
     return files.upload()
