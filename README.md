@@ -1,7 +1,7 @@
 # music21colab
 Utilities for Music21 in Google Colab
 
-![mus21colab]("mus21colab.png")
+![mus21colab](mus21colab.png)
 
 ## Install
 ```
